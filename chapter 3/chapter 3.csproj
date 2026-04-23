@@ -6,6 +6,6 @@
     <RootNamespace>chapter_3</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	  <StartupObject>chapter_3.Relationaloperator</StartupObject>
+	  <StartupObject>chapter_3.Downcasting</StartupObject>
 </PropertyGroup>
 </Project>

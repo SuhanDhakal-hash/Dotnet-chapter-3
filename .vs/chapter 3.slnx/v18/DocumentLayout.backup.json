@@ -7,8 +7,20 @@
       "RelativeMoniker": "D:0:0:{DE7DFE62-8E6C-860D-CD0B-12D85E99F942}|chapter 3\\chapter 3.csproj|solutionrelative:chapter 3\\chapter 3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DE7DFE62-8E6C-860D-CD0B-12D85E99F942}|chapter 3\\chapter 3.csproj|g:\\donet\\chapter 3\\chapter 3\\downcasting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7DFE62-8E6C-860D-CD0B-12D85E99F942}|chapter 3\\chapter 3.csproj|solutionrelative:chapter 3\\downcasting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7DFE62-8E6C-860D-CD0B-12D85E99F942}|chapter 3\\chapter 3.csproj|g:\\donet\\chapter 3\\chapter 3\\upcasting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7DFE62-8E6C-860D-CD0B-12D85E99F942}|chapter 3\\chapter 3.csproj|solutionrelative:chapter 3\\upcasting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DE7DFE62-8E6C-860D-CD0B-12D85E99F942}|chapter 3\\chapter 3.csproj|g:\\donet\\chapter 3\\chapter 3\\relational  operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE7DFE62-8E6C-860D-CD0B-12D85E99F942}|chapter 3\\chapter 3.csproj|solutionrelative:chapter 3\\relational  operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7DFE62-8E6C-860D-CD0B-12D85E99F942}|chapter 3\\chapter 3.csproj|g:\\donet\\chapter 3\\chapter 3\\arithmeticoperatorexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7DFE62-8E6C-860D-CD0B-12D85E99F942}|chapter 3\\chapter 3.csproj|solutionrelative:chapter 3\\arithmeticoperatorexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,12 +39,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Downcasting.cs",
+              "DocumentMoniker": "G:\\Donet\\chapter 3\\chapter 3\\Downcasting.cs",
+              "RelativeDocumentMoniker": "chapter 3\\Downcasting.cs",
+              "ToolTip": "G:\\Donet\\chapter 3\\chapter 3\\Downcasting.cs",
+              "RelativeToolTip": "chapter 3\\Downcasting.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T03:25:39.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Upcasting.cs",
+              "DocumentMoniker": "G:\\Donet\\chapter 3\\chapter 3\\Upcasting.cs",
+              "RelativeDocumentMoniker": "chapter 3\\Upcasting.cs",
+              "ToolTip": "G:\\Donet\\chapter 3\\chapter 3\\Upcasting.cs",
+              "RelativeToolTip": "chapter 3\\Upcasting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T03:04:05.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArithmeticOperatorExample.cs",
+              "DocumentMoniker": "G:\\Donet\\chapter 3\\chapter 3\\ArithmeticOperatorExample.cs",
+              "RelativeDocumentMoniker": "chapter 3\\ArithmeticOperatorExample.cs",
+              "ToolTip": "G:\\Donet\\chapter 3\\chapter 3\\ArithmeticOperatorExample.cs",
+              "RelativeToolTip": "chapter 3\\ArithmeticOperatorExample.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T11:15:26.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Relational  operator.cs",
               "DocumentMoniker": "G:\\Donet\\chapter 3\\chapter 3\\Relational  operator.cs",
               "RelativeDocumentMoniker": "chapter 3\\Relational  operator.cs",
               "ToolTip": "G:\\Donet\\chapter 3\\chapter 3\\Relational  operator.cs",
               "RelativeToolTip": "chapter 3\\Relational  operator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABMAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-22T02:13:02.47Z",
               "EditorCaption": ""
@@ -45,7 +96,7 @@
               "RelativeDocumentMoniker": "chapter 3\\chapter 3.csproj",
               "ToolTip": "G:\\Donet\\chapter 3\\chapter 3\\chapter 3.csproj",
               "RelativeToolTip": "chapter 3\\chapter 3.csproj",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAwAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-04-16T03:18:58.678Z",
               "EditorCaption": ""
